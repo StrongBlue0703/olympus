@@ -34,7 +34,7 @@ export default function Footer() {
               passHref
               className="text-foreground transition hover:text-primary"
             >
-              wendoj
+              Strong Blue
             </Link>
           </p>
           <hr className="hidden h-6 border-l border-muted md:flex" />
